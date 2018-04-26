@@ -39,7 +39,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/dreampak-logo-128x31.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": ""
   },
   "pages": {
@@ -1683,7 +1683,7 @@
       "settings": {
         "meta_descr": "Sign in to win Amazon gift cards and find awesome deals on our products!",
         "title": "AmazonPromos",
-        "order": 1,
+        "order": 2,
         "header_custom": ""
       },
       "components": [
@@ -2163,7 +2163,7 @@
       "settings": {
         "meta_descr": "Sign in to win Amazon gift cards and find awesome deals on our products!",
         "title": "Amazon Promotions",
-        "order": 2,
+        "order": 1,
         "header_custom": ""
       },
       "components": [

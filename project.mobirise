@@ -1003,7 +1003,7 @@
           "_anchor": "header15-u",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script type=\"text/javascript\">(function a(d, w, u) {var h = d.getElementsByTagName(\"head\")[0];var s = d.createElement(\"script\");s.type = \"text/javascript\";s.src = \"https://portal.form.io/lib/seamless/seamless.parent.min.js\";s.onload = function b() {var f = d.getElementById(\"formio-form-5ae08c6939a94b4464f42e5e\");if (!f || (typeof w.seamless === u)) {return setTimeout(b, 100);}w.seamless(f, {fallback:false}).receive(function(d, e) {window.location.href = \"https://www.amazon.com/s?marketplaceID=ATVPDKIKX0DER&me=A2SKR5EGBUO24&merchant=A2SKR5EGBUO24&redirect=true\";});};h.appendChild(s);})(document, window);</script>"
+            "<script type=\"text/javascript\">(function a(d, w, u) {var h = d.getElementsByTagName(\"head\")[0];var s = d.createElement(\"script\");s.type = \"text/javascript\";s.src = \"https://portal.form.io/lib/seamless/seamless.parent.min.js\";s.onload = function b() {var f = d.getElementById(\"formio-form-5ae08c6939a94b4464f42e5e\");if (!f || (typeof w.seamless === u)) {return setTimeout(b, 100);}w.seamless(f, {fallback:false}).receive(function(d, e) {});};h.appendChild(s);})(document, window);</script>"
           ],
           "_protectedParams": [],
           "_global": false,

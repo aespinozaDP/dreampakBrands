@@ -5020,11 +5020,6 @@ body {
     padding-bottom: 2rem;
   }
 }
-.cid-qSeHFWQgnt html,
-.cid-qSeHFWQgnt body {
-  text-align: center;
-  font-size: 16px;
-}
 @keyframes bouncing-win_lose {
   2% {
     transform: rotate(-48deg);

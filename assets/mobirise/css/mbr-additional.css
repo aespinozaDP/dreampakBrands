@@ -5327,7 +5327,7 @@ body {
 .cid-qSew0B9yrQ .wheel-labels li:nth-child(12) {
   transform: rotate(360deg);
 }
-.cid-qSew0B9yrQ .wheel-labels li:nth-child(2n+1) .wheel-label {
+.cid-qSew0B9yrQ .wheel-labels li:nth-child(2n + 1) .wheel-label {
   color: #fff;
 }
 .cid-qSew0B9yrQ .wheel-label {
@@ -5391,9 +5391,6 @@ body {
   background: #ccc;
   color: #333;
   text-decoration: none;
-}
-.cid-qSew0B9yrQ B {
-  color: #ff3366;
 }
 .cid-qSdRtBeltY .navbar {
   padding: .5rem 0;

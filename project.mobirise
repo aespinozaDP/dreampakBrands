@@ -5112,7 +5112,7 @@
             ".wheel-labels li:nth-child(12)": {
               "transform": "rotate(360deg)"
             },
-            ".wheel-labels li:nth-child(2n+1) .wheel-label": {
+            ".wheel-labels li:nth-child(2n + 1) .wheel-label": {
               "color": "#fff"
             },
             ".wheel-label": {
@@ -5174,9 +5174,6 @@
               "background": "#ccc",
               "color": "#333",
               "text-decoration": "none"
-            },
-            "B": {
-              "color": "#ff3366"
             }
           },
           "_name": "header3",

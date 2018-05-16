@@ -3793,6 +3793,26 @@ body {
     -webkit-justify-content: center;
   }
 }
+.cid-qS290iy8Cf {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qS290iy8Cf h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qS290iy8Cf p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qS290iy8Cf .card-box {
+  padding-top: 2rem;
+}
+.cid-qS290iy8Cf .card-wrapper {
+  height: 100%;
+}
 .cid-qO5jZuNqmG {
   padding-top: 75px;
   padding-bottom: 30px;
@@ -4909,7 +4929,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qRLuPX7CPY {
-  background-image: url("../../../assets/images/x1-banner-stand-graphic-template-2000x1125.jpg");
+  background-image: url("../../../");
 }
 .cid-qRLuPX7CPY .form-container {
   transition: all .2s;

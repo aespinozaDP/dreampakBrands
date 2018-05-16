@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DREAMPAK",
-    "currentPage": "show.html",
+    "currentPage": "page7.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 52,
     "versionPublish": "4.7.2",
@@ -4740,7 +4740,7 @@
         "meta_descr": "Sign in to win Amazon gift cards and find awesome deals on our products!",
         "title": "showdigital",
         "order": 5,
-        "header_custom": "<script src='Winwheel.js'></script>"
+        "header_custom": "<script src=\"http://dreampakbrands.com/Winwheel.min.js\">\n</script>"
       },
       "components": [
         {

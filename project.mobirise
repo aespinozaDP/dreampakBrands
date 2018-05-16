@@ -4740,7 +4740,7 @@
         "meta_descr": "Sign in to win Amazon gift cards and find awesome deals on our products!",
         "title": "showdigital",
         "order": 5,
-        "header_custom": "<script src=\"http://dreampakbrands.com/Winwheel.min.js\">\n</script>",
+        "header_custom": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js\"></script>\n<script src=\"http://dreampakbrands.com/Winwheel.min.js\">\n</script>\n",
         "footer_custom": "<script>\n\n    (function() {\n\t\tconsole.log('loaded');\n\n\t\t// Animate Function\n\t\tvar animateWheel = function() {\n\t\t\t// Get Elements\n\t\t\t$wheel = $('.arrow');\n\t\t\t$wheel = $('.wheel');\n\n\t\t\t// Handle Classes\n\t\t\t$wheel.removeClass('animate animated');\n\t\t\t$wheel.addClass('animate');\n\t\t\t$wheel.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {\n\t\t\t\t$wheel.addClass('animated');\n\t\t\t\t$wheel.removeClass('animate');\n\t\t\t});\n\n\t\t};\n\n\t\t// Listerner\n\t\t$('.button.spin').on('click', function() { animateWheel(); });\n\t\t\n\t\t$('.button.win, .button.lose, .button.freeoffer').on('click', function() {\n\t\t\t$wheel.removeClass('animated');\n\n\t\t\t// Change Outcome\n\t\t\tvar option = $(this).attr('class').slice(7);\n\t\t\t$('.wheel').attr('data-result', option);\n\n\t\t});\n\n\t})();\n\n</script>"
       },
       "components": [

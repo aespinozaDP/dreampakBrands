@@ -5346,30 +5346,6 @@ body {
 .cid-qSdRtBeltY .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qSdRtBu6bv {
-  background-image: url("../../../assets/images/x1-banner-stand-graphic-template-2000x1125.jpg");
-}
-.cid-qSdRtBu6bv .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-}
-.cid-qSdRtBu6bv .input-group-btn {
-  justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-qSdRtBu6bv .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-qSdRtBu6bv H1 {
-  color: #fef227;
-}
-.cid-qSdRtBu6bv .mbr-text,
-.cid-qSdRtBu6bv .mbr-section-btn {
-  color: #ffffff;
-  text-align: right;
-}
 .cid-qSdRtBPBMQ {
   padding-top: 30px;
   padding-bottom: 30px;

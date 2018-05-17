@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DREAMPAK",
-    "currentPage": "page7.html",
+    "currentPage": "win.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 59,
     "versionPublish": "4.7.2",
@@ -3603,7 +3603,7 @@
         }
       ]
     },
-    "page7.html": {
+    "win.html": {
       "settings": {
         "meta_descr": "Sign in to win Amazon gift cards and find awesome deals on our products!",
         "title": "showdigital",

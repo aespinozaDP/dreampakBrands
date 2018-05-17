@@ -4635,6 +4635,8 @@ body {
 #custom-html-1m body {
   text-align: center;
   font-size: 16px;
+  background-color: red;
+  Padding-bottom: 100px;
 }
 @keyframes bouncing-win_lose {
   2% {
@@ -5125,14 +5127,14 @@ body {
   height: 24px;
 }
 #custom-html-1m .controls {
-  margin: 6rem auto 2rem;
+  margin: -1rem auto -2rem;
   max-width: 400px;
 }
 #custom-html-1m .button {
   display: inline-block;
-  padding: 6px 12px;
+  padding: 10px 30px;
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 30px;
   font-weight: normal;
   line-height: 1.42857143;
   text-align: center;
@@ -5151,7 +5153,7 @@ body {
   border-radius: 4px;
 }
 #custom-html-1m .button.spin {
-  background: blue;
+  background: darkblue;
   color: white;
 }
 #custom-html-1m .button.spin:hover,
@@ -5175,4 +5177,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+  position: relative;
+  top: 100px;
 }

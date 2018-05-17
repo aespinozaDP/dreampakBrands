@@ -4636,7 +4636,7 @@ body {
   text-align: center;
   font-size: 16px;
   background-color: red;
-  Padding-bottom: 100px;
+  height: 100%;
 }
 @keyframes bouncing-win_lose {
   2% {

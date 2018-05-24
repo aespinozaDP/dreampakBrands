@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Color M",
+    "name": "INDEX DPbrands",
     "currentPage": "indexTest.html",
     "theme": {
       "name": "colorm",
@@ -23,18 +23,20 @@
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "",
     "versionFirst": "4.7.6",
     "uniqCompNum": 1,
     "versionPublish": "4.7.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "indexTest.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "DP Brands",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",

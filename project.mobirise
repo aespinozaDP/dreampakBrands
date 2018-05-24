@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Color M",
-    "currentPage": "index.html",
+    "currentPage": "indexTest.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -31,7 +31,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "indexTest.html": {
       "settings": {
         "main": true,
         "title": "Home",

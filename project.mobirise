@@ -569,7 +569,7 @@
         "meta_descr": "Sign in to win Amazon gift cards and find awesome deals on our products!",
         "title": "Amazon Promotions",
         "order": 3,
-        "header_custom": ""
+        "header_custom": "  <link rel=\"stylesheet\" href=\"assets/web/assets/mobirise-icons/mobirise-icons.css\">\n  <link rel=\"stylesheet\" href=\"assets/tether/tether.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/bootstrap/css/bootstrap.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/bootstrap/css/bootstrap-grid.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/bootstrap/css/bootstrap-reboot.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/dropdown/css/style.css\">\n  <link rel=\"stylesheet\" href=\"assets/animatecss/animate.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/theme/css/style.css\">\n  <link rel=\"stylesheet\" href=\"assets/mobirise/css/mbr-additional.css\" type=\"text/css\">"
       },
       "components": [
         {

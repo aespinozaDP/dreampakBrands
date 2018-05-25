@@ -75,7 +75,7 @@ textarea,
   background-color: #2ecc71 !important;
 }
 .bg-info {
-  background-color: #3498db !important;
+  background-color: #f1c40f !important;
 }
 .bg-warning {
   background-color: #f1c40f !important;
@@ -124,8 +124,8 @@ textarea,
   border-color: #b07cc6 !important;
 }
 .btn-info {
-  background-color: #3498db;
-  border-color: #3498db;
+  background-color: #f1c40f;
+  border-color: #f1c40f;
   color: #ffffff;
 }
 .btn-info:hover,
@@ -134,14 +134,14 @@ textarea,
 .btn-info:active,
 .btn-info.active {
   color: #ffffff;
-  background-color: #5faee3;
-  border-color: #5faee3;
+  background-color: #f4d03f;
+  border-color: #f4d03f;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #5faee3 !important;
-  border-color: #5faee3 !important;
+  background-color: #f4d03f !important;
+  border-color: #f4d03f !important;
 }
 .btn-success {
   background-color: #2ecc71;
@@ -245,8 +245,8 @@ textarea,
 }
 .btn-info-outline {
   background: none;
-  border-color: #2b94d9;
-  color: #2b94d9;
+  border-color: #e8bd0e;
+  color: #e8bd0e;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
@@ -254,14 +254,14 @@ textarea,
 .btn-info-outline:active,
 .btn-info-outline.active {
   color: #fff;
-  background-color: #3498db;
-  border-color: #3498db;
+  background-color: #f1c40f;
+  border-color: #f1c40f;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #000000 !important;
-  background-color: #3498db !important;
-  border-color: #3498db !important;
+  background-color: #f1c40f !important;
+  border-color: #f1c40f !important;
 }
 .btn-success-outline {
   background: none;
@@ -352,7 +352,7 @@ textarea,
   border: none !important;
 }
 .btn-info.btn-text {
-  color: #3498db;
+  color: #f1c40f;
   background: none;
   border: none;
 }
@@ -361,7 +361,7 @@ textarea,
 .btn-info.btn-text.focus,
 .btn-info.btn-text:active,
 .btn-info.btn-text.active {
-  color: #5faee3;
+  color: #f4d03f;
   background: none !important;
   border: none !important;
 }
@@ -442,7 +442,7 @@ textarea,
   color: #2ecc71 !important;
 }
 .text-info {
-  color: #3498db !important;
+  color: #f1c40f !important;
 }
 .text-warning {
   color: #f1c40f !important;
@@ -454,7 +454,7 @@ textarea,
   background-color: #2ecc71;
 }
 .alert-info {
-  background-color: #3498db;
+  background-color: #f1c40f;
 }
 .alert-warning {
   background-color: #f1c40f;
@@ -499,7 +499,7 @@ textarea,
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #e1f0fa;
+  color: #fcf3d0;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -718,6 +718,79 @@ blockquote {
   font-family: 'Montserrat', sans-serif;
 }
 /*end colorM*/
+#footer2-2 .mbr-section-text {
+  color: #fff;
+}
+#footer2-2 P {
+  color: #ecf0f1;
+}
+#menu-3 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3 .navbar-caption {
+  color: #ffffff;
+}
+#menu-3 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-3 .close-icon::before,
+#menu-3 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-3 .link,
+#menu-3 .dropdown-item {
+  color: #ffffff;
+}
+#menu-3 .link {
+  font-size: 0.875rem;
+}
+#menu-3 .dropdown-item,
+#menu-3 .nav-dropdown-sm .link {
+  font-size: 0.948rem;
+}
+#menu-3 .link:hover,
+#menu-3 .link:focus {
+  color: #214292;
+}
+#menu-3 .dropdown-item:hover::before,
+#menu-3 .dropdown-item:focus::before {
+  background: #214292;
+}
+#menu-3 .dropdown-item:hover,
+#menu-3 .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-3 .link[aria-expanded="true"],
+#menu-3 .dropdown-menu {
+  background: #d5d5d5;
+}
+#menu-3 .nav-dropdown-sm .link:focus,
+#menu-3 .nav-dropdown-sm .link:hover,
+#menu-3 .nav-dropdown-sm .dropdown-item:focus,
+#menu-3 .nav-dropdown-sm .dropdown-item:hover {
+  background: #e6e6e6!important;
+}
+#menu-3 .navbar,
+#menu-3 .nav-dropdown-sm,
+#menu-3 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3 .nav-dropdown-sm .dropdown-menu {
+  background: #eeeeee;
+}
+#menu-3 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-3 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3 .bg-color.transparent.opened .link:hover,
+#menu-3 .bg-color.transparent.opened .link:focus {
+  color: #214292;
+}
+#menu-3 .link[aria-expanded="true"],
+#menu-3 .dropdown-item[aria-expanded="true"] {
+  color: #214292!important;
+}
 #header9-0 .elements-content {
   padding-bottom: 50px;
 }

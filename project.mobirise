@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "INDEX DPbrands",
-    "currentPage": "index.html",
+    "currentPage": "toproast.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -30,7 +30,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "",
     "versionFirst": "4.7.6",
-    "uniqCompNum": 19,
+    "uniqCompNum": 21,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "google-analytics": "",
@@ -768,15 +768,35 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff"
+            "bgColor": "#dddddd"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/Spec Sheet example.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD Spec Sheet</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/Spec Sheet example.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD Spec Sheet</a> ",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-g"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "PRESS'D COFFEE",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-j"
         },
         {
           "_styles": {
@@ -789,11 +809,11 @@
           },
           "_params": {
             "showImages": true,
-            "showNumber": true,
+            "showNumber": false,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "imageSize": 50,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -812,15 +832,18 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb11.png",
+              "src": "@PROJECT_PATH@/assets/images/coffee-600x458.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "PRESS'D COFFEE",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Smooth and balanced for a quick, proper coffee.<br><br>Add to Water.<br><br>Makes 16 cups.<br><br>High quality 100% Arabica Colombian beans are extracted, brewed with low temperature and bottled for a quality cup<br>Liquid coffee for easy mixing and adding to recipes<br>Pocket-sized bottle to take anywhere<br>Product Information<br>Ingredients: Liquid Coffee &amp; Ground Coffee, That’s it!<br>Beans: Best quality colombian Arabica beans<br>Calories: Zero<br>How to enjoy: Hot, Iced, Lattes, Recipes, Smoothies, Strong, Light",
           "number1": "1",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
@@ -843,7 +866,7 @@
             "Theme"
           ],
           "_name": "features8",
-          "_anchor": "features8-h"
+          "_anchor": "features8-k"
         },
         {
           "_styles": {

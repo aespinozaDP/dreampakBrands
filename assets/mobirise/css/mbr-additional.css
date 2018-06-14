@@ -1010,10 +1010,14 @@ blockquote {
 #menu-6 .dropdown-item[aria-expanded="true"] {
   color: #214292!important;
 }
-#features8-h .lead {
+#content3-j .mbr-section-title,
+#content3-j .mbr-section-subtitle {
+  text-align: center;
+}
+#features8-k .lead {
   color: #9fa3a7;
 }
-#features8-h .mbr-section-subtitle {
+#features8-k .mbr-section-subtitle {
   text-transform: uppercase;
 }
 #footer2-c .mbr-section-text {

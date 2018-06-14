@@ -1,6 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
+
+
 
 
 
@@ -10,11 +13,11 @@ textarea,
 .mbr-section-text,
 .mbr-company .list-group-text,
 .panel-body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Arimo', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Arimo', sans-serif;
 }
 .alert,
 .mbr-section-title,
@@ -22,7 +25,7 @@ textarea,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Arvo', serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -36,7 +39,7 @@ textarea,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Arvo', serif;
+  font-family: 'Roboto', sans-serif;
 }
 .btn {
   border-radius: 2.6em;
@@ -50,22 +53,22 @@ textarea,
 .nav-tabs .nav-link,
 .mbr-testimonial .card-block,
 .table th {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Arvo', serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Arvo', serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
 }
 .bg-primary {
@@ -625,11 +628,11 @@ blockquote {
 }
 /*countdown*/
 .countdown .period {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
 }
 .countdown .number {
-  font-family: 'Arvo', serif;
+  font-family: 'Roboto', sans-serif;
 }
 .countdown1 .number-wrap {
   border-color: #214292;
@@ -660,7 +663,7 @@ blockquote {
   color: #214292;
 }
 .shop1 .shop-item-price {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .shop1 .mbr-gallery-item:hover .item_overlay {
   background: #214292;
@@ -674,7 +677,7 @@ blockquote {
 .person-info .title3,
 .team1 .title4,
 .person-info .title4 {
-  font-family: 'Arvo', serif;
+  font-family: 'Roboto', sans-serif;
 }
 .team1 .subtitle1,
 .person-info .subtitle1,
@@ -684,7 +687,7 @@ blockquote {
 .person-info .subtitle3,
 .team1 .subtitle4,
 .person-info .subtitle4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .team1 .text1,
 .person-info .text1,
@@ -694,7 +697,7 @@ blockquote {
 .person-info .text3,
 .team1 .text4,
 .person-info .text4 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Arimo', sans-serif;
 }
 .person-info .subtitle1,
 .person-info .subtitle2,
@@ -703,19 +706,19 @@ blockquote {
   color: #214292;
 }
 .animated-bg1 .text {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Arimo', sans-serif;
 }
 .features9 .timeline-panel h4 {
-  font-family: 'Arvo', serif;
+  font-family: 'Roboto', sans-serif;
 }
 .features9 .timeline-panel p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Arimo', sans-serif;
 }
 .features9 .date-normal p {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .features9 .date-inverted p {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 /*end colorM*/
 #footer2-2 .mbr-section-text {
@@ -802,4 +805,307 @@ blockquote {
 #header9-0 .mbr-section-title,
 #header9-0 .tab-pane {
   color: #000;
+}
+#header9-0 .mbr-section-title {
+  font-family: 'Noto Sans', sans-serif;
+}
+#header9-0 .header-text {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+#footer2-5 .mbr-section-text {
+  color: #fff;
+}
+#footer2-5 P {
+  color: #ecf0f1;
+}
+#menu-6 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-6 .navbar-caption {
+  color: #ffffff;
+}
+#menu-6 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-6 .close-icon::before,
+#menu-6 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-6 .link,
+#menu-6 .dropdown-item {
+  color: #ffffff;
+}
+#menu-6 .link {
+  font-size: 0.875rem;
+}
+#menu-6 .dropdown-item,
+#menu-6 .nav-dropdown-sm .link {
+  font-size: 0.948rem;
+}
+#menu-6 .link:hover,
+#menu-6 .link:focus {
+  color: #214292;
+}
+#menu-6 .dropdown-item:hover::before,
+#menu-6 .dropdown-item:focus::before {
+  background: #214292;
+}
+#menu-6 .dropdown-item:hover,
+#menu-6 .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-6 .link[aria-expanded="true"],
+#menu-6 .dropdown-menu {
+  background: #d5d5d5;
+}
+#menu-6 .nav-dropdown-sm .link:focus,
+#menu-6 .nav-dropdown-sm .link:hover,
+#menu-6 .nav-dropdown-sm .dropdown-item:focus,
+#menu-6 .nav-dropdown-sm .dropdown-item:hover {
+  background: #e6e6e6!important;
+}
+#menu-6 .navbar,
+#menu-6 .nav-dropdown-sm,
+#menu-6 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-6 .nav-dropdown-sm .dropdown-menu {
+  background: #eeeeee;
+}
+#menu-6 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-6 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-6 .bg-color.transparent.opened .link:hover,
+#menu-6 .bg-color.transparent.opened .link:focus {
+  color: #214292;
+}
+#menu-6 .link[aria-expanded="true"],
+#menu-6 .dropdown-item[aria-expanded="true"] {
+  color: #214292 !important;
+}
+#header9-7 .elements-content {
+  padding-bottom: 50px;
+}
+#header9-7 .mbr-section-subtitle {
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+#header9-7 .mbr-section-title,
+#header9-7 .tab-pane {
+  color: #000;
+}
+#header9-7 .mbr-section-title {
+  font-family: 'Noto Sans', sans-serif;
+}
+#header9-7 .header-text {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#custom-html-b {
+  /* Marker tweaks */
+}
+#custom-html-b * {
+  box-sizing: border-box;
+}
+#custom-html-b body {
+  color: #404040;
+  font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+  font-smoothing: antialiased;
+}
+#custom-html-b h1 {
+  font-size: 22px;
+  margin: 0;
+  font-weight: 400;
+}
+#custom-html-b a {
+  color: #404040;
+  text-decoration: none;
+}
+#custom-html-b a:hover {
+  color: #101010;
+}
+#custom-html-b .sidebar {
+  position: absolute;
+  width: 33.3333%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  border-right: 1px solid rgba(0, 0, 0, 0.25);
+}
+#custom-html-b .pad2 {
+  padding: 20px;
+}
+#custom-html-b .quiet {
+  color: #888;
+}
+#custom-html-b .map {
+  position: absolute;
+  left: 33.3333%;
+  width: 66.6666%;
+  top: 0;
+  bottom: 0;
+}
+#custom-html-b .heading {
+  background: #fff;
+  border-bottom: 1px solid #eee;
+  height: 60px;
+  line-height: 60px;
+  padding: 0 10px;
+}
+#custom-html-b .listings {
+  height: 100%;
+  overflow: auto;
+  padding-bottom: 60px;
+}
+#custom-html-b .listings .item {
+  display: block;
+  border-bottom: 1px solid #eee;
+  padding: 10px;
+  text-decoration: none;
+}
+#custom-html-b .listings .item:last-child {
+  border-bottom: none;
+}
+#custom-html-b .listings .item .title {
+  display: block;
+  color: #00853e;
+  font-weight: 700;
+}
+#custom-html-b .listings .item .title small {
+  font-weight: 400;
+}
+#custom-html-b .listings .item.active .title,
+#custom-html-b .listings .item .title:hover {
+  color: #8cc63f;
+}
+#custom-html-b .listings .item.active {
+  background-color: #f8f8f8;
+}
+#custom-html-b ::-webkit-scrollbar {
+  width: 3px;
+  height: 3px;
+  border-left: 0;
+  background: rgba(0, 0, 0, 0.1);
+}
+#custom-html-b ::-webkit-scrollbar-track {
+  background: none;
+}
+#custom-html-b ::-webkit-scrollbar-thumb {
+  background: #00853e;
+  border-radius: 0;
+}
+#custom-html-b .clearfix {
+  display: block;
+}
+#custom-html-b .clearfix:after {
+  content: '.';
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+#custom-html-b .leaflet-popup-close-button {
+  display: none;
+}
+#custom-html-b .leaflet-popup-content {
+  font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+  padding: 0;
+  width: 200px;
+}
+#custom-html-b .leaflet-popup-content-wrapper {
+  padding: 0;
+}
+#custom-html-b .leaflet-popup-content h3 {
+  background: #91c949;
+  color: #fff;
+  margin: 0;
+  display: block;
+  padding: 10px;
+  border-radius: 3px 3px 0 0;
+  font-weight: 700;
+  margin-top: -15px;
+}
+#custom-html-b .leaflet-popup-content div {
+  padding: 10px;
+}
+#custom-html-b .leaflet-container .leaflet-marker-icon {
+  cursor: pointer;
+}
+#menu-6 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-6 .navbar-caption {
+  color: #ffffff;
+}
+#menu-6 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-6 .close-icon::before,
+#menu-6 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-6 .link,
+#menu-6 .dropdown-item {
+  color: #ffffff;
+}
+#menu-6 .link {
+  font-size: 0.875rem;
+}
+#menu-6 .dropdown-item,
+#menu-6 .nav-dropdown-sm .link {
+  font-size: 0.948rem;
+}
+#menu-6 .link:hover,
+#menu-6 .link:focus {
+  color: #214292;
+}
+#menu-6 .dropdown-item:hover::before,
+#menu-6 .dropdown-item:focus::before {
+  background: #214292;
+}
+#menu-6 .dropdown-item:hover,
+#menu-6 .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-6 .link[aria-expanded="true"],
+#menu-6 .dropdown-menu {
+  background: #d5d5d5;
+}
+#menu-6 .nav-dropdown-sm .link:focus,
+#menu-6 .nav-dropdown-sm .link:hover,
+#menu-6 .nav-dropdown-sm .dropdown-item:focus,
+#menu-6 .nav-dropdown-sm .dropdown-item:hover {
+  background: #e6e6e6!important;
+}
+#menu-6 .navbar,
+#menu-6 .nav-dropdown-sm,
+#menu-6 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-6 .nav-dropdown-sm .dropdown-menu {
+  background: #eeeeee;
+}
+#menu-6 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-6 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-6 .bg-color.transparent.opened .link:hover,
+#menu-6 .bg-color.transparent.opened .link:focus {
+  color: #214292;
+}
+#menu-6 .link[aria-expanded="true"],
+#menu-6 .dropdown-item[aria-expanded="true"] {
+  color: #214292!important;
+}
+#footer2-c .mbr-section-text {
+  color: #fff;
+}
+#footer2-c P {
+  color: #ecf0f1;
 }

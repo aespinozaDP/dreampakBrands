@@ -812,6 +812,11 @@ blockquote {
 #header9-0 .header-text {
   font-family: 'Source Sans Pro', sans-serif;
 }
+#intro1-i .mbr-section-subtitle {
+  color: #f1c40f;
+  text-align: left;
+  font-size: 18px;
+}
 
 
 #footer2-5 .mbr-section-text {
@@ -885,7 +890,7 @@ blockquote {
 }
 #menu-6 .link[aria-expanded="true"],
 #menu-6 .dropdown-item[aria-expanded="true"] {
-  color: #214292 !important;
+  color: #214292!important;
 }
 #header9-7 .elements-content {
   padding-bottom: 50px;
@@ -1102,6 +1107,12 @@ blockquote {
 #menu-6 .link[aria-expanded="true"],
 #menu-6 .dropdown-item[aria-expanded="true"] {
   color: #214292!important;
+}
+#features8-h .lead {
+  color: #9fa3a7;
+}
+#features8-h .mbr-section-subtitle {
+  text-transform: uppercase;
 }
 #footer2-c .mbr-section-text {
   color: #fff;

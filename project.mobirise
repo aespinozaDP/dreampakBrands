@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "INDEX DPbrands",
-    "currentPage": "promos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -880,7 +880,7 @@
       "settings": {
         "title": "Promos",
         "order": 4,
-        "header_custom": "  <link rel=\"stylesheet\" href=\"assets/web/assets/mobirise-icons/mobirise-icons.css\">\n  <link rel=\"stylesheet\" href=\"assets/tether/tether.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/bootstrap/css/bootstrap.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/bootstrap/css/bootstrap-grid.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/bootstrap/css/bootstrap-reboot.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/dropdown/css/style.css\">\n  <link rel=\"stylesheet\" href=\"assets/animatecss/animate.min.css\">\n  <link rel=\"stylesheet\" href=\"assets/theme/css/style.css\">\n  <link rel=\"stylesheet\" href=\"assets/mobirise/css/mbr-additional.css\" type=\"text/css\">",
+        "header_custom": "",
         "meta_descr": "FILL THE FORM FOR A CHANCE TO WIN AMAZON GIFT CARDS AND PROMO CODES"
       },
       "components": [

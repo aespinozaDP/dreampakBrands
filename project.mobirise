@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "INDEX DPbrands",
-    "currentPage": "index2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -30,7 +30,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "",
     "versionFirst": "4.7.6",
-    "uniqCompNum": 27,
+    "uniqCompNum": 30,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "google-analytics": "",
@@ -44,7 +44,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -366,7 +366,7 @@
     "page3.html": {
       "settings": {
         "title": "StoreLocator",
-        "order": 3,
+        "order": 4,
         "header_custom": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js\" type=\"text/javascript\"></script>\n\n <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>\n  <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.js'></script>\n  <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.css' rel='stylesheet' />\n<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>",
         "footer_custom": ""
       },
@@ -390,7 +390,7 @@
     "toproast.html": {
       "settings": {
         "title": "Coffee",
-        "order": 1,
+        "order": 2,
         "meta_descr": ""
       },
       "components": [
@@ -902,7 +902,7 @@
     "promos.html": {
       "settings": {
         "title": "Promos",
-        "order": 5,
+        "order": 6,
         "header_custom": "",
         "meta_descr": "FILL THE FORM FOR A CHANCE TO WIN AMAZON GIFT CARDS AND PROMO CODES"
       },
@@ -963,12 +963,12 @@
           ],
           "_name": "intro1",
           "_anchor": "intro1-i",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full intro intro1 mbr-section-with-arrow mbr-parallax-background\" data-rv-view=\"8\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/0123a41606094948b87c1a57844dec97-1-1600-1600x1067.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0, 20, 70);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-5 col-lg-offset-1 text-xs-center text-lg-left\">\n\n\n                    <p class=\"mbr-section-subtitle lead subtitle mbr-editable-content\" code-editable-id=\"23\">Fill the form for a chance to win Amazon gift cards and promo codes.</p>\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"24\"><strong>Fill the form and WIN!</strong></h1>\n                </div>\n\n                <div class=\"col-xs-12 col-lg-4 col-lg-offset-1\" data-form-type=\"formoid\">\n                    <div data-form-alert=\"true\">\n                        {JS_CODE_0}<iframe id=\"formio-form-5ae08c6939a94b4464f42e5e\" style=\"width:100%;border:none;\" height=\"345px;border:none\" src=\"https://formview.io/#/kxtsudnwbgjzapa/promos?iframe=1&amp;header=0\"></iframe>  \n                                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n\n\n</div></section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full intro intro1 mbr-section-with-arrow mbr-parallax-background\" data-rv-view=\"8\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/0123a41606094948b87c1a57844dec97-1-1600-1600x1067.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0, 20, 70);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-5 col-lg-offset-1 text-xs-center text-lg-left\">\n\n\n                    <p class=\"mbr-section-subtitle lead subtitle mbr-editable-content\" code-editable-id=\"18\">Fill the form for a chance to win Amazon gift cards and promo codes.</p>\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"19\"><strong>Fill the form and WIN!</strong></h1>\n                </div>\n                \n                <div class=\"col-xs-12 col-lg-4 col-lg-offset-1 form-container\" data-form-type=\"formoid\">\n                    <div data-form-alert=\"true\">\n                        {JS_CODE_0}<iframe id=\"formio-form-5ae08c6939a94b4464f42e5e\" style=\"width:100%;border:none;\" height=\"345px;border:none\" src=\"https://formview.io/#/kxtsudnwbgjzapa/promos?iframe=1&amp;header=0\"></iframe>  \n                                    \n                    </div>\n                </div>\n            </div>\n        </div>\n\n\n\n</div></section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script type=\"text/javascript\">(function a(d, w, u) {var h = d.getElementsByTagName(\"head\")[0];var s = d.createElement(\"script\");s.type = \"text/javascript\";s.src = \"https://portal.form.io/lib/seamless/seamless.parent.min.js\";s.onload = function b() {var f = d.getElementById(\"formio-form-5ae08c6939a94b4464f42e5e\");if (!f || (typeof w.seamless === u)) {return setTimeout(b, 100);}w.seamless(f, {fallback:false}).receive(function(d, e) {});};h.appendChild(s);})(document, window);</script>"
           ],
-          "_customCSS": ".mbr-section-subtitle {\n  color: #f1c40f;\n  text-align: left;\n  font-size: 18px;\n}\n",
+          "_customCSS": ".mbr-section-subtitle {\n  color: #f1c40f;\n  text-align: left;\n  font-size: 18px;\n}\n.form-container {\n  transition: all .2s;\n  border: 1px solid #ffffff;\n  padding: 1rem;\n  & when (@bgForm) {\n    background-color: white;\n    border: none;\n  }",
           "_customTemplate": true
         }
       ]
@@ -976,7 +976,7 @@
     "page5.html": {
       "settings": {
         "title": "Creamer",
-        "order": 2,
+        "order": 3,
         "meta_descr": ""
       },
       "components": [
@@ -1812,6 +1812,139 @@
           ],
           "_name": "header9",
           "_anchor": "header9-0"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "title": "Redirecting",
+        "meta_descr": "",
+        "header_custom": "<meta http-equiv=\"refresh\" content=\"0; URL='http://dreampak.com'\" />",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#ecf0f1"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#999999",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright 2018  <a href=\"http://www.dreampak.com\" target=\"_blank\"><b>DREAMPAK</b></a> - All Rights Reserved / <a href=\"mailto:marketing@dreampak.com\"><b>Contact us</b></a>!",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-r"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#a1aab0"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#b5bbc0!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#bdc3c7"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#bdc3c7",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://dreampak.com\" aria-expanded=\"false\" target=\"_blank\">Website</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dreampak-logo-534x128.png",
+              "height": 128,
+              "alt": "DREAMPAK",
+              "link": "#top",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-s"
         }
       ]
     }

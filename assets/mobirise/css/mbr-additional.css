@@ -1026,11 +1026,35 @@ blockquote {
 #footer2-c P {
   color: #ecf0f1;
 }
-#intro1-i .mbr-section-subtitle {
+@primaryColor: #f39c12;
+@buttonsColor: #ffffff;
+@secondaryColor: #9b59b6;
+@successColor: #2ecc71;
+@infoColor: #f1c40f;
+@warningColor: #f1c40f;
+@dangerColor: #e74c3c;
+@titleFont: 'Roboto', sans-serif;
+@subtitleFont: 'Roboto', sans-serif;
+@textFont: 'Arimo', sans-serif;
+@isRoundedButtons: true;
+@isAnimatedOnScroll: true;
+@isScrollToTopButton: false;
+@isPublish: true;
+
+#intro1-i {
+.mbr-section-subtitle {
   color: #f1c40f;
   text-align: left;
   font-size: 18px;
 }
+.form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+  & when (@bgForm) {
+    background-color: white;
+    border: none;
+  }}
 #menu-l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1209,4 +1233,77 @@ blockquote {
 }
 #header9-0 .header-text {
   font-family: 'Source Sans Pro', sans-serif;
+}
+#footer2-r .mbr-section-text {
+  color: #fff;
+}
+#footer2-r P {
+  color: #ecf0f1;
+}
+#menu-s .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-s .navbar-caption {
+  color: #ffffff;
+}
+#menu-s .navbar-toggler {
+  color: #ffffff;
+}
+#menu-s .close-icon::before,
+#menu-s .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-s .link,
+#menu-s .dropdown-item {
+  color: #ffffff;
+}
+#menu-s .link {
+  font-size: 0.6rem;
+}
+#menu-s .dropdown-item,
+#menu-s .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-s .link:hover,
+#menu-s .link:focus {
+  color: #f39c12;
+}
+#menu-s .dropdown-item:hover::before,
+#menu-s .dropdown-item:focus::before {
+  background: #f39c12;
+}
+#menu-s .dropdown-item:hover,
+#menu-s .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-s .link[aria-expanded="true"],
+#menu-s .dropdown-menu {
+  background: #a1aab0;
+}
+#menu-s .nav-dropdown-sm .link:focus,
+#menu-s .nav-dropdown-sm .link:hover,
+#menu-s .nav-dropdown-sm .dropdown-item:focus,
+#menu-s .nav-dropdown-sm .dropdown-item:hover {
+  background: #b5bbc0!important;
+}
+#menu-s .navbar,
+#menu-s .nav-dropdown-sm,
+#menu-s .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-s .nav-dropdown-sm .dropdown-menu {
+  background: #bdc3c7;
+}
+#menu-s .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-s .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-s .bg-color.transparent.opened .link:hover,
+#menu-s .bg-color.transparent.opened .link:focus {
+  color: #f39c12;
+}
+#menu-s .link[aria-expanded="true"],
+#menu-s .dropdown-item[aria-expanded="true"] {
+  color: #f39c12!important;
 }

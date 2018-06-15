@@ -6,7 +6,7 @@
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#214292",
+        "primaryColor": "#f39c12",
         "buttonsColor": "#ffffff",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
@@ -137,9 +137,9 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
-            "bgColor": "#eeeeee",
-            "fontSize": 0.875,
+            "transparent": false,
+            "bgColor": "#bdc3c7",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -455,9 +455,9 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
-            "bgColor": "#eeeeee",
-            "fontSize": 0.875,
+            "transparent": false,
+            "bgColor": "#bdc3c7",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1030,10 +1030,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.875rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.948rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -1045,13 +1045,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d5d5d5"
+              "background": "#a1aab0"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e6e6e6!important"
+              "background": "#b5bbc0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#eeeeee"
+              "background": "#bdc3c7"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1064,7 +1064,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#214292!important"
+              "color": "#f39c12!important"
             }
           },
           "_params": {
@@ -1073,9 +1073,9 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
-            "bgColor": "#eeeeee",
-            "fontSize": 0.875,
+            "transparent": false,
+            "bgColor": "#bdc3c7",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1146,15 +1146,15 @@
             "overlayOpacity": 0.9
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
-          "title": "<br>DreamPak Brands?",
-          "text": "At DreamPak, we strive to develop and create the best products with the highest standards while keeping practicality and the best tasting products in the market.<br>Click below to learn more about each of our product categories.",
+          "title": "DreamPak Brands?",
+          "text": "At DreamPak, we strive to develop and create the best products with the highest standards while keeping practicality and the best tasting products in the market.<br>Click below to see more about our private label brands.",
           "title1": "BOOST YOUR RANKING",
           "title2": "BOOTSTRAP BUILDER",
           "title3": "TRENDY WEBSITE BLOCKS",
           "title4": "HOST ANYWHERE",
           "title5": "IMAGE/CONTENT SLIDER",
           "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-0\" aria-expanded=\"false\">COFFEE</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-0\" aria-expanded=\"true\">CREAMERS</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-0\" aria-expanded=\"false\">All In One Mixes</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-0\" aria-expanded=\"false\">Supplements</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-0\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-0\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-0\" aria-expanded=\"false\">COFFEE</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-0\" aria-expanded=\"false\">CREAMERS</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-0\" aria-expanded=\"true\">All In One Mixes</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-0\" aria-expanded=\"false\">Supplements</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-0\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-0\">Beautiful</a></li>",
           "media11": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/coffee-1-4299x3368.jpg",

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "INDEX DPbrands",
-    "currentPage": "toproast.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -63,7 +63,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#001446",
+            "bgColor": "#999999",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -884,7 +884,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#001446",
+            "bgColor": "#999999",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -999,7 +999,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#001446",
+            "bgColor": "#999999",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1154,7 +1154,7 @@
           "title4": "HOST ANYWHERE",
           "title5": "IMAGE/CONTENT SLIDER",
           "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-0\" aria-expanded=\"true\">COFFEE</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-0\" aria-expanded=\"false\">CREAMERS</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-0\" aria-expanded=\"false\">All In One Mixes</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-0\" aria-expanded=\"true\">Supplements</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-0\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-0\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-0\" aria-expanded=\"false\">COFFEE</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-0\" aria-expanded=\"true\">CREAMERS</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-0\" aria-expanded=\"false\">All In One Mixes</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link text-black\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-0\" aria-expanded=\"false\">Supplements</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-0\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-0\">Beautiful</a></li>",
           "media11": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/coffee-1-4299x3368.jpg",
@@ -1167,7 +1167,7 @@
           },
           "media12": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/creamer-4299x3368.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coffee-4299x3368.png",
               "class": "card-img-top",
               "active": true,
               "link": "",
@@ -1177,7 +1177,7 @@
           },
           "media13": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aio-4299x3368.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coffee-1-4299x3368.png",
               "class": "card-img-top",
               "active": true,
               "link": "",

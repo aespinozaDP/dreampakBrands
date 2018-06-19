@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "INDEX DPbrands",
-    "currentPage": "coffee.html",
+    "currentPage": "creamer.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -30,7 +30,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "",
     "versionFirst": "4.7.6",
-    "uniqCompNum": 33,
+    "uniqCompNum": 34,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "google-analytics": "",
@@ -151,7 +151,7 @@
               "src": "@PROJECT_PATH@/assets/images/dreampak-logo-534x128.png",
               "height": 128,
               "alt": "DREAMPAK",
-              "link": "#top",
+              "link": "index2.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -359,8 +359,9 @@
               "src": "@PROJECT_PATH@/assets/images/dreampak-logo-534x128.png",
               "height": 128,
               "alt": "DREAMPAK",
-              "link": "#top",
-              "title": ""
+              "link": "index2.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -686,8 +687,9 @@
               "src": "@PROJECT_PATH@/assets/images/dreampak-logo-534x128.png",
               "height": 128,
               "alt": "DREAMPAK",
-              "link": "#top",
-              "title": ""
+              "link": "index2.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -721,13 +723,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#001446"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#001446"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#001446"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -742,7 +744,7 @@
               "background": "@primaryColor"
             },
             ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#ffffff"
+              "color": "#001446"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#a1aab0"
@@ -754,7 +756,7 @@
               "background": "#bdc3c7"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#001446",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -787,7 +789,7 @@
               "src": "@PROJECT_PATH@/assets/images/dreampak-logo-534x128.png",
               "height": 128,
               "alt": "DREAMPAK",
-              "link": "#top",
+              "link": "index2.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -819,10 +821,10 @@
             "tabs": "3",
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc02205-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -830,7 +832,7 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.9
+            "overlayOpacity": "0.8"
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "title": "Top Roast",
@@ -1088,6 +1090,110 @@
         },
         {
           "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our Team",
+          "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
+          "person1": "",
+          "person2": "",
+          "person3": "",
+          "person4": "",
+          "subtitle1": "French Vanilla",
+          "subtitle2": "Original",
+          "subtitle3": "Hazelnut",
+          "subtitle4": "French Vanilla",
+          "caption1": "",
+          "caption2": "",
+          "caption3": "",
+          "caption4": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sc1-600x544.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sc2-600x544.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sc3-600x544.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sc1-600x544.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "team2",
+          "_styles": {
+            ".subtitle1": {
+              "text-align": "center",
+              "color": "#214292"
+            },
+            ".subtitle2": {
+              "color": "#214292"
+            },
+            ".subtitle3": {
+              "color": "#214292"
+            },
+            ".subtitle4": {
+              "text-align": "center",
+              "color": "#214292"
+            }
+          },
+          "_anchor": "team2-x"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#dddddd"
@@ -1099,96 +1205,6 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-n"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "6",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "PRESS'D COFFEE",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-o"
-        },
-        {
-          "_styles": {
-            ".lead": {
-              "color": "#9fa3a7"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase"
-            }
-          },
-          "_params": {
-            "showImages": true,
-            "showNumber": false,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "imageSize": 50,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.9
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/coffee-600x458.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title1": "PRESS'D COFFEE",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Smooth and balanced for a quick, proper coffee.<br><br>Add to Water.<br><br>Makes 16 cups.<br><br>High quality 100% Arabica Colombian beans are extracted, brewed with low temperature and bottled for a quality cup<br>Liquid coffee for easy mixing and adding to recipes<br>Pocket-sized bottle to take anywhere<br>Product Information<br>Ingredients: Liquid Coffee &amp; Ground Coffee, That’s it!<br>Beans: Best quality colombian Arabica beans<br>Calories: Zero<br>How to enjoy: Hot, Iced, Lattes, Recipes, Smoothies, Strong, Light",
-          "number1": "1",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features8",
-          "_anchor": "features8-p"
         },
         {
           "_styles": {
@@ -1303,7 +1319,7 @@
               "src": "@PROJECT_PATH@/assets/images/dreampak-logo-534x128.png",
               "height": 128,
               "alt": "DREAMPAK",
-              "link": "#top",
+              "link": "index2.html",
               "title": "",
               "linkInNewWindow": false
             },

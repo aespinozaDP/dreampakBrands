@@ -1054,8 +1054,14 @@ blockquote {
 #menu-l .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
-#tabs2-m P {
-  text-align: center;
+#features7-z .lead {
+  color: #9fa3a7;
+}
+#features7-z .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features7-z .mbr-section-text {
+  color: #000000;
 }
 #team2-x .subtitle1 {
   text-align: center;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "INDEX DPbrands",
-    "currentPage": "index2.html",
+    "currentPage": "creamer.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -30,7 +30,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "",
     "versionFirst": "4.7.6",
-    "uniqCompNum": 34,
+    "uniqCompNum": 36,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "google-analytics": "",
@@ -809,284 +809,76 @@
         },
         {
           "_styles": {
-            "P": {
-              "text-align": "center"
+            ".lead": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
             }
           },
           "_params": {
-            "showHeader": true,
-            "showHeaderText": true,
             "showImages": true,
+            "showNumber": false,
             "showTitles": true,
-            "tabs": "3",
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "imageSize": 50,
+            "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc02205-2000x1333.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
           },
-          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
-          "title": "Top Roast",
-          "text": "Splash of Cream® is a real dairy creamer delivered in a convenient, pre-measured format. All of our Creamers are concentraded, meaning you can enjoy tons of servings in the smallest form factor. &nbsp;Best of all, Splash of Cream® is completely shelf-stable, which means you will never need to worry about refrigeration again!",
-          "media": {
+          "media1": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/coffee-4299x3368.png",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/family-3925x3104.png",
               "link": "",
               "alt": "",
               "title": ""
             }
           },
-          "title11": "Pump &amp; Single Squeeze",
-          "title12": "BOOST YOUR RANKING",
-          "title13": "BOOST YOUR RANKING",
-          "title21": "",
-          "title22": "BOOTSTRAP BUILDER",
-          "title23": "BOOTSTRAP BUILDER",
-          "title31": "BOOST YOUR RANKING",
-          "title32": "BOOST YOUR RANKING",
-          "title33": "BOOST YOUR RANKING",
-          "title51": "BOOTSTRAP BUILDER",
-          "title52": "BOOTSTRAP BUILDER",
-          "title53": "BOOTSTRAP BUILDER",
-          "title61": "TRENDY WEBSITE BLOCKS",
-          "title62": "TRENDY WEBSITE BLOCKS",
-          "title63": "TRENDY WEBSITE BLOCKS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs2-f\" aria-expanded=\"false\">Form Factor</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs2-f\" aria-expanded=\"false\">No More Brewing</a></li><li class=\"nav-item nav-item-last\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs2-f\" aria-expanded=\"true\">Clean Label</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs2-f\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs2-f\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs2-f\">Beautiful</a></li>",
-          "media11": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "clock",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media12": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "attachment",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media13": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "paperclip",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media21": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "hot-cup",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media22": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media23": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media31": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "linkInNewWindow": false,
-              "name": "like",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "@primaryColor"
-            }
-          },
-          "media32": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media33": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media41": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media42": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "attachment",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media43": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "paperclip",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media51": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "upload",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media52": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media53": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media61": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "upload",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media62": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media63": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "text11": "Having the freedom of keeping your creamer on a counter top or hidden inside a drawer is something unheard of. Until NOW! Splash comes in two conveninent presentation.<br>Single Squeeze bottles, sold in 12 packs and single units. &nbsp;This are perfect to carry in your purse or your backpack. And 22 Servings will last you quite a while!<br><br>And if that wasn't convenient enough, we also have Single Serve Squeeze Pods which are premeasured liquid coffee pods perfect to prepare a cup of coffee on the go. These are perfect to carry in your bag, backpack or your car. &nbsp;",
-          "text12": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut cupiditate est, illum quo. Unde in fugit commodi labore earum harum, minus itaque maxime asperiores voluptatibus, iusto quae, ab dignissimos sequi.",
-          "text13": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut cupiditate est, illum quo. Unde in fugit commodi labore earum harum, minus itaque maxime asperiores voluptatibus, iusto quae, ab dignissimos sequi.",
-          "text21": "<br>Our coffee concentrates are processed and manufactured using a low-temperature brew method that preserves the natural flavor and aroma of the coffee beans. The coffee concentrate simply needs to be mixed with hot or cold water, eliminating the many drawbacks of Brewing Systems:<br><br>Investment Savings: no need to go out and spend hundreds of dollars on a fancy brewing system. With any hot water source, or a microwave for heating water, you can enjoy a delicious specialty coffee beverage with just our Top Roast mix.<br>Refill Savings: most refill pods are priced expensively and designed to only work with specific equipment. Because we designed our coffee to be super-concentrated, each serving is only 5ml (roughly 1/6 of an ounce). This efficiency allows us to pack 100 servings in each bottle at a tremendous value. <br>Space Savings: most brewing systems are bulky, difficult to move, and constantly have to be connected to a power source. Instead, you can put Top Roast anywhere in the house or at your workplace. Even try keeping it on your desk next to your water for a quick, refreshing pick-me-up!",
-          "text22": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique maxime, placeat. Dignissimos incidunt, consequuntur molestiae! Exercitationem tempora qui, non sit quia, voluptate sequi repudiandae accusamus voluptatem expedita ducimus vero incidunt.",
-          "text23": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique maxime, placeat. Dignissimos incidunt, consequuntur molestiae! Exercitationem tempora qui, non sit quia, voluptate sequi repudiandae accusamus voluptatem expedita ducimus vero incidunt.",
-          "text31": "While sourcing our coffee, we make sure that it meets the highest standards of quality. &nbsp;Top ROast is made with 100% Arabica Beans of the highest quality! &nbsp;Each 15.2oz. pump bottle is completely shelf-stable, which means it never needs to be refrigerated! For best quality, use within 90 days of opening. Pump included.",
-          "text32": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nam officia. Repellendus quae modi eaque sed, aliquam molestias, amet neque blanditiis illo ratione eos! Unde minima porro, consequatur eveniet dolore!",
-          "text33": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nam officia. Repellendus quae modi eaque sed, aliquam molestias, amet neque blanditiis illo ratione eos! Unde minima porro, consequatur eveniet dolore!",
-          "text41": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
-          "text42": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
-          "text43": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
-          "text51": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
-          "text52": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
-          "text53": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
-          "text61": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
-          "text62": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
-          "text63": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "title1": "Splash of Cream",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Splash of Cream® is a real dairy creamer delivered in a convenient, pre-measured pump format. Our creamers are concentrated so that you can enjoy 100 servings (equivalent to 100 portion-controlled cups) of creamer in a space-efficient bottle. Best of all, \nSplash of Cream® is completely shelf-stable, which means you will never need to worry about refrigeration again! ",
+          "number1": "1",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Spec Sheet</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "tabs2",
-          "_anchor": "tabs2-m"
+          "_name": "features7",
+          "_anchor": "features7-z"
         },
         {
           "_params": {

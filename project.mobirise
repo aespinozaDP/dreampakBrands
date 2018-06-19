@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "INDEX DPbrands",
-    "currentPage": "creamer.html",
+    "currentPage": "index2.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -433,7 +433,7 @@
               "src": "@PROJECT_PATH@/assets/images/coffee-1-4299x3368.jpg",
               "class": "card-img-top",
               "active": true,
-              "link": "toproast.html",
+              "link": "coffee.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -444,7 +444,7 @@
               "src": "@PROJECT_PATH@/assets/images/coffee-4299x3368.png",
               "class": "card-img-top",
               "active": true,
-              "link": "page5.html",
+              "link": "creamer.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false

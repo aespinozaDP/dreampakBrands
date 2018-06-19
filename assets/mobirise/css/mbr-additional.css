@@ -1140,9 +1140,26 @@ blockquote {
 #menu-6 .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
+#team2-w .subtitle1 {
+  text-align: center;
+  color: #214292;
+}
+#team2-w .subtitle2 {
+  color: #214292;
+}
+#team2-w .subtitle3 {
+  color: #001446;
+}
+#team2-w .subtitle4 {
+  text-align: center;
+  color: #001446;
+}
 #content3-j .mbr-section-title,
 #content3-j .mbr-section-subtitle {
   text-align: center;
+}
+#content3-j H3 {
+  text-align: right;
 }
 #features8-k .lead {
   color: #9fa3a7;

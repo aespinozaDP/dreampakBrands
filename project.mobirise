@@ -30,7 +30,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "",
     "versionFirst": "4.7.6",
-    "uniqCompNum": 32,
+    "uniqCompNum": 33,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "google-analytics": "",
@@ -1329,12 +1329,12 @@
             "showImages": true,
             "showTitles": true,
             "tabs": "3",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc02041rev1-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -1342,10 +1342,10 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.9
+            "overlayOpacity": "0.8"
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
-          "title": "Top Roast",
+          "title": "<b>Top Roast</b>",
           "text": "Top Roast Colombian Coffee Concentrate, made with 100% Arabica coffee beans, utilizes a patented low-temperature technology and production process that preserves the natural flavor and aroma of the coffee beans. Just add to hot or cold water, adjust to taste and enjoy the premium coffee all year round. Perfect for small offices, cafeterias, food trucks, events, conferences or your everyday enjoyment at home!  And of course, the pump is included. ",
           "media": {
             "image": {
@@ -1600,6 +1600,110 @@
         },
         {
           "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our Team",
+          "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
+          "person1": "",
+          "person2": "",
+          "person3": "",
+          "person4": "",
+          "subtitle1": "Single Squeeze 1oz",
+          "subtitle2": "1 Pump = 1 Cup",
+          "subtitle3": "Packaging",
+          "subtitle4": "Pallet configuration",
+          "caption1": "",
+          "caption2": "",
+          "caption3": "",
+          "caption4": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tr1-600x544.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tr2-600x544.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tr3-600x544.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tr4-600x544.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "team2",
+          "_anchor": "team2-w",
+          "_styles": {
+            ".subtitle1": {
+              "text-align": "center",
+              "color": "#214292"
+            },
+            ".subtitle2": {
+              "color": "#214292"
+            },
+            ".subtitle3": {
+              "color": "#001446"
+            },
+            ".subtitle4": {
+              "text-align": "center",
+              "color": "#001446"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#dddddd"
@@ -1616,6 +1720,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
             }
           },
           "_params": {
@@ -1624,7 +1731,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "PRESS'D COFFEE",
+          "title": "<b>PRESS'D COFFEE</b>",
           "meta": "",
           "_tags": [
             "Theme"

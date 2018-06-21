@@ -1314,3 +1314,195 @@ blockquote {
 #custom-html-b .leaflet-container .leaflet-marker-icon {
   cursor: pointer;
 }
+#menu-10 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-10 .navbar-caption {
+  color: #ffffff;
+}
+#menu-10 .navbar-toggler {
+  color: #001446;
+}
+#menu-10 .close-icon::before,
+#menu-10 .close-icon::after {
+  background-color: #001446;
+}
+#menu-10 .link,
+#menu-10 .dropdown-item {
+  color: #001446;
+}
+#menu-10 .link {
+  font-size: 0.85rem;
+}
+#menu-10 .dropdown-item,
+#menu-10 .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#menu-10 .link:hover,
+#menu-10 .link:focus {
+  color: #f39c12;
+}
+#menu-10 .dropdown-item:hover::before,
+#menu-10 .dropdown-item:focus::before {
+  background: #f39c12;
+}
+#menu-10 .dropdown-item:hover,
+#menu-10 .dropdown-item:focus {
+  color: #001446;
+}
+#menu-10 .link[aria-expanded="true"],
+#menu-10 .dropdown-menu {
+  background: #a1aab0;
+}
+#menu-10 .nav-dropdown-sm .link:focus,
+#menu-10 .nav-dropdown-sm .link:hover,
+#menu-10 .nav-dropdown-sm .dropdown-item:focus,
+#menu-10 .nav-dropdown-sm .dropdown-item:hover {
+  background: #b5bbc0!important;
+}
+#menu-10 .navbar,
+#menu-10 .nav-dropdown-sm,
+#menu-10 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-10 .nav-dropdown-sm .dropdown-menu {
+  background: #bdc3c7;
+}
+#menu-10 .bg-color.transparent .link {
+  color: #001446;
+  transition: none;
+}
+#menu-10 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-10 .bg-color.transparent.opened .link:hover,
+#menu-10 .bg-color.transparent.opened .link:focus {
+  color: #f39c12;
+}
+#menu-10 .link[aria-expanded="true"],
+#menu-10 .dropdown-item[aria-expanded="true"] {
+  color: #f39c12!important;
+}
+#features7-11 .lead {
+  color: #9fa3a7;
+}
+#features7-11 .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features7-11 .mbr-section-text {
+  color: #000000;
+}
+#team2-12 .subtitle1 {
+  text-align: center;
+  color: #214292;
+}
+#team2-12 .subtitle2 {
+  color: #214292;
+}
+#team2-12 .subtitle3 {
+  color: #214292;
+}
+#team2-12 .subtitle4 {
+  text-align: center;
+  color: #214292;
+}
+#footer2-14 .mbr-section-text {
+  color: #fff;
+}
+#footer2-14 P {
+  color: #ecf0f1;
+}
+#menu-15 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-15 .navbar-caption {
+  color: #ffffff;
+}
+#menu-15 .navbar-toggler {
+  color: #001446;
+}
+#menu-15 .close-icon::before,
+#menu-15 .close-icon::after {
+  background-color: #001446;
+}
+#menu-15 .link,
+#menu-15 .dropdown-item {
+  color: #001446;
+}
+#menu-15 .link {
+  font-size: 0.85rem;
+}
+#menu-15 .dropdown-item,
+#menu-15 .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#menu-15 .link:hover,
+#menu-15 .link:focus {
+  color: #f39c12;
+}
+#menu-15 .dropdown-item:hover::before,
+#menu-15 .dropdown-item:focus::before {
+  background: #f39c12;
+}
+#menu-15 .dropdown-item:hover,
+#menu-15 .dropdown-item:focus {
+  color: #001446;
+}
+#menu-15 .link[aria-expanded="true"],
+#menu-15 .dropdown-menu {
+  background: #a1aab0;
+}
+#menu-15 .nav-dropdown-sm .link:focus,
+#menu-15 .nav-dropdown-sm .link:hover,
+#menu-15 .nav-dropdown-sm .dropdown-item:focus,
+#menu-15 .nav-dropdown-sm .dropdown-item:hover {
+  background: #b5bbc0!important;
+}
+#menu-15 .navbar,
+#menu-15 .nav-dropdown-sm,
+#menu-15 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-15 .nav-dropdown-sm .dropdown-menu {
+  background: #bdc3c7;
+}
+#menu-15 .bg-color.transparent .link {
+  color: #001446;
+  transition: none;
+}
+#menu-15 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-15 .bg-color.transparent.opened .link:hover,
+#menu-15 .bg-color.transparent.opened .link:focus {
+  color: #f39c12;
+}
+#menu-15 .link[aria-expanded="true"],
+#menu-15 .dropdown-item[aria-expanded="true"] {
+  color: #f39c12!important;
+}
+#features7-16 .lead {
+  color: #9fa3a7;
+}
+#features7-16 .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features7-16 .mbr-section-text {
+  color: #000000;
+}
+#team2-17 .subtitle1 {
+  text-align: center;
+  color: #214292;
+}
+#team2-17 .subtitle2 {
+  color: #214292;
+}
+#team2-17 .subtitle3 {
+  color: #214292;
+}
+#team2-17 .subtitle4 {
+  text-align: center;
+  color: #214292;
+}
+#footer2-19 .mbr-section-text {
+  color: #fff;
+}
+#footer2-19 P {
+  color: #ecf0f1;
+}

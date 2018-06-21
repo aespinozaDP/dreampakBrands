@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "INDEX DPbrands",
-    "currentPage": "Supplements.html",
+    "currentPage": "coffee.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -1516,7 +1516,7 @@
             "paddingBottom": 1,
             "bgColor": "#dddddd"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/Spec Sheet example.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD Spec Sheet</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/Coffee%20Concentrate%20#307144%20Rev%201.doc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD Spec Sheet</a> ",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
